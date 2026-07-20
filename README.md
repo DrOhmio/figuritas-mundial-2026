@@ -17,3 +17,4 @@ Por eso, el progreso existente debería mantenerse en el mismo navegador y dispo
 ## Compartir
 Cualquier persona puede abrir el mismo enlace y tendrá su propio progreso local. Para transferir datos debe usar Exportar respaldo e Importar respaldo.
 Deployment refresh: v2.0
+Deploy test
