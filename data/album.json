@@ -1,0 +1,5585 @@
+{
+  "album": "Mi Álbum Mundial 2026",
+  "version": "2.0.0",
+  "storageKey": "wc26_pro_v6_portable",
+  "total": 992,
+  "groups": [
+    {
+      "id": "A",
+      "teams": [
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE"
+      ]
+    },
+    {
+      "id": "B",
+      "teams": [
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI"
+      ]
+    },
+    {
+      "id": "C",
+      "teams": [
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO"
+      ]
+    },
+    {
+      "id": "D",
+      "teams": [
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR"
+      ]
+    },
+    {
+      "id": "E",
+      "teams": [
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU"
+      ]
+    },
+    {
+      "id": "F",
+      "teams": [
+        "NED",
+        "JPN",
+        "SWE",
+        "TUN"
+      ]
+    },
+    {
+      "id": "G",
+      "teams": [
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL"
+      ]
+    },
+    {
+      "id": "H",
+      "teams": [
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU"
+      ]
+    },
+    {
+      "id": "I",
+      "teams": [
+        "FRA",
+        "SEN",
+        "IRQ",
+        "NOR"
+      ]
+    },
+    {
+      "id": "J",
+      "teams": [
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR"
+      ]
+    },
+    {
+      "id": "K",
+      "teams": [
+        "POR",
+        "COD",
+        "UZB",
+        "COL"
+      ]
+    },
+    {
+      "id": "L",
+      "teams": [
+        "ENG",
+        "CRO",
+        "GHA",
+        "PAN"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "PANINI_FIFA",
+      "emoji": "🏆",
+      "name": "PANINI / FIFA WORLD CUP",
+      "items": [
+        {
+          "id": "PANINI-00",
+          "display": "00",
+          "type": "Especial"
+        },
+        {
+          "id": "FWC-1",
+          "display": "FWC1",
+          "type": "Especial"
+        },
+        {
+          "id": "FWC-2",
+          "display": "FWC2",
+          "type": "Especial"
+        },
+        {
+          "id": "FWC-3",
+          "display": "FWC3",
+          "type": "Especial"
+        },
+        {
+          "id": "FWC-4",
+          "display": "FWC4",
+          "type": "Especial"
+        },
+        {
+          "id": "FWC-5",
+          "display": "FWC5",
+          "type": "Especial"
+        },
+        {
+          "id": "FWC-6",
+          "display": "FWC6",
+          "type": "Especial"
+        },
+        {
+          "id": "FWC-7",
+          "display": "FWC7",
+          "type": "Especial"
+        },
+        {
+          "id": "FWC-8",
+          "display": "FWC8",
+          "type": "Especial"
+        }
+      ],
+      "category": "special",
+      "group": null
+    },
+    {
+      "id": "MEX",
+      "emoji": "🇲🇽",
+      "name": "México",
+      "items": [
+        {
+          "id": "MEX-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "MEX-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "MEX-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "MEX-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "MEX-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "MEX-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "MEX-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "MEX-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "MEX-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "MEX-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "MEX-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "MEX-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "MEX-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "MEX-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "MEX-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "MEX-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "MEX-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "MEX-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "MEX-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "MEX-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "A",
+      "category": "team",
+      "code": "MEX"
+    },
+    {
+      "id": "RSA",
+      "emoji": "🇿🇦",
+      "name": "Sudáfrica",
+      "items": [
+        {
+          "id": "RSA-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "RSA-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "RSA-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "RSA-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "RSA-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "RSA-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "RSA-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "RSA-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "RSA-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "RSA-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "RSA-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "RSA-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "RSA-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "RSA-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "RSA-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "RSA-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "RSA-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "RSA-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "RSA-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "RSA-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "A",
+      "category": "team",
+      "code": "RSA"
+    },
+    {
+      "id": "KOR",
+      "emoji": "🇰🇷",
+      "name": "Corea del Sur",
+      "items": [
+        {
+          "id": "KOR-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "KOR-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "KOR-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "KOR-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "KOR-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "KOR-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "KOR-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "KOR-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "KOR-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "KOR-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "KOR-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "KOR-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "KOR-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "KOR-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "KOR-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "KOR-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "KOR-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "KOR-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "KOR-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "KOR-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "A",
+      "category": "team",
+      "code": "KOR"
+    },
+    {
+      "id": "CZE",
+      "emoji": "🇨🇿",
+      "name": "República Checa",
+      "items": [
+        {
+          "id": "CZE-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "CZE-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "CZE-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "CZE-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "CZE-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "CZE-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "CZE-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "CZE-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "CZE-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "CZE-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "CZE-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "CZE-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "CZE-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "CZE-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "CZE-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "CZE-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "CZE-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "CZE-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "CZE-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "CZE-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "A",
+      "category": "team",
+      "code": "CZE"
+    },
+    {
+      "id": "CAN",
+      "emoji": "🇨🇦",
+      "name": "Canadá",
+      "items": [
+        {
+          "id": "CAN-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "CAN-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "CAN-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "CAN-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "CAN-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "CAN-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "CAN-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "CAN-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "CAN-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "CAN-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "CAN-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "CAN-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "CAN-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "CAN-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "CAN-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "CAN-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "CAN-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "CAN-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "CAN-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "CAN-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "B",
+      "category": "team",
+      "code": "CAN"
+    },
+    {
+      "id": "BIH",
+      "emoji": "🇧🇦",
+      "name": "Bosnia y Herzegovina",
+      "items": [
+        {
+          "id": "BIH-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "BIH-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "BIH-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "BIH-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "BIH-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "BIH-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "BIH-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "BIH-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "BIH-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "BIH-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "BIH-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "BIH-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "BIH-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "BIH-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "BIH-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "BIH-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "BIH-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "BIH-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "BIH-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "BIH-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "B",
+      "category": "team",
+      "code": "BIH"
+    },
+    {
+      "id": "QAT",
+      "emoji": "🇶🇦",
+      "name": "Qatar",
+      "items": [
+        {
+          "id": "QAT-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "QAT-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "QAT-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "QAT-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "QAT-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "QAT-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "QAT-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "QAT-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "QAT-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "QAT-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "QAT-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "QAT-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "QAT-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "QAT-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "QAT-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "QAT-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "QAT-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "QAT-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "QAT-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "QAT-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "B",
+      "category": "team",
+      "code": "QAT"
+    },
+    {
+      "id": "SUI",
+      "emoji": "🇨🇭",
+      "name": "Suiza",
+      "items": [
+        {
+          "id": "SUI-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "SUI-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "SUI-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "SUI-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "SUI-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "SUI-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "SUI-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "SUI-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "SUI-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "SUI-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "SUI-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "SUI-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "SUI-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "SUI-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "SUI-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "SUI-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "SUI-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "SUI-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "SUI-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "SUI-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "B",
+      "category": "team",
+      "code": "SUI"
+    },
+    {
+      "id": "BRA",
+      "emoji": "🇧🇷",
+      "name": "Brasil",
+      "items": [
+        {
+          "id": "BRA-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "BRA-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "BRA-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "BRA-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "BRA-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "BRA-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "BRA-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "BRA-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "BRA-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "BRA-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "BRA-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "BRA-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "BRA-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "BRA-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "BRA-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "BRA-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "BRA-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "BRA-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "BRA-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "BRA-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "C",
+      "category": "team",
+      "code": "BRA"
+    },
+    {
+      "id": "MAR",
+      "emoji": "🇲🇦",
+      "name": "Marruecos",
+      "items": [
+        {
+          "id": "MAR-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "MAR-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "MAR-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "MAR-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "MAR-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "MAR-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "MAR-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "MAR-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "MAR-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "MAR-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "MAR-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "MAR-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "MAR-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "MAR-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "MAR-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "MAR-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "MAR-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "MAR-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "MAR-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "MAR-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "C",
+      "category": "team",
+      "code": "MAR"
+    },
+    {
+      "id": "HAI",
+      "emoji": "🇭🇹",
+      "name": "Haití",
+      "items": [
+        {
+          "id": "HAI-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "HAI-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "HAI-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "HAI-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "HAI-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "HAI-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "HAI-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "HAI-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "HAI-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "HAI-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "HAI-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "HAI-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "HAI-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "HAI-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "HAI-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "HAI-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "HAI-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "HAI-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "HAI-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "HAI-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "C",
+      "category": "team",
+      "code": "HAI"
+    },
+    {
+      "id": "SCO",
+      "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "name": "Escocia",
+      "items": [
+        {
+          "id": "SCO-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "SCO-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "SCO-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "SCO-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "SCO-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "SCO-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "SCO-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "SCO-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "SCO-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "SCO-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "SCO-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "SCO-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "SCO-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "SCO-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "SCO-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "SCO-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "SCO-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "SCO-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "SCO-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "SCO-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "C",
+      "category": "team",
+      "code": "SCO"
+    },
+    {
+      "id": "USA",
+      "emoji": "🇺🇸",
+      "name": "Estados Unidos",
+      "items": [
+        {
+          "id": "USA-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "USA-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "USA-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "USA-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "USA-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "USA-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "USA-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "USA-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "USA-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "USA-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "USA-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "USA-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "USA-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "USA-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "USA-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "USA-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "USA-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "USA-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "USA-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "USA-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "D",
+      "category": "team",
+      "code": "USA"
+    },
+    {
+      "id": "PAR",
+      "emoji": "🇵🇾",
+      "name": "Paraguay",
+      "items": [
+        {
+          "id": "PAR-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "PAR-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "PAR-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "PAR-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "PAR-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "PAR-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "PAR-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "PAR-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "PAR-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "PAR-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "PAR-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "PAR-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "PAR-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "PAR-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "PAR-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "PAR-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "PAR-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "PAR-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "PAR-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "PAR-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "D",
+      "category": "team",
+      "code": "PAR"
+    },
+    {
+      "id": "AUS",
+      "emoji": "🇦🇺",
+      "name": "Australia",
+      "items": [
+        {
+          "id": "AUS-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "AUS-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "AUS-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "AUS-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "AUS-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "AUS-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "AUS-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "AUS-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "AUS-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "AUS-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "AUS-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "AUS-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "AUS-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "AUS-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "AUS-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "AUS-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "AUS-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "AUS-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "AUS-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "AUS-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "D",
+      "category": "team",
+      "code": "AUS"
+    },
+    {
+      "id": "TUR",
+      "emoji": "🇹🇷",
+      "name": "Turquía",
+      "items": [
+        {
+          "id": "TUR-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "TUR-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "TUR-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "TUR-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "TUR-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "TUR-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "TUR-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "TUR-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "TUR-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "TUR-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "TUR-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "TUR-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "TUR-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "TUR-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "TUR-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "TUR-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "TUR-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "TUR-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "TUR-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "TUR-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "D",
+      "category": "team",
+      "code": "TUR"
+    },
+    {
+      "id": "GER",
+      "emoji": "🇩🇪",
+      "name": "Alemania",
+      "items": [
+        {
+          "id": "GER-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "GER-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "GER-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "GER-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "GER-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "GER-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "GER-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "GER-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "GER-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "GER-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "GER-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "GER-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "GER-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "GER-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "GER-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "GER-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "GER-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "GER-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "GER-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "GER-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "E",
+      "category": "team",
+      "code": "GER"
+    },
+    {
+      "id": "CUW",
+      "emoji": "🇨🇼",
+      "name": "Curazao",
+      "items": [
+        {
+          "id": "CUW-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "CUW-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "CUW-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "CUW-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "CUW-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "CUW-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "CUW-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "CUW-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "CUW-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "CUW-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "CUW-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "CUW-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "CUW-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "CUW-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "CUW-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "CUW-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "CUW-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "CUW-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "CUW-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "CUW-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "E",
+      "category": "team",
+      "code": "CUW"
+    },
+    {
+      "id": "CIV",
+      "emoji": "🇨🇮",
+      "name": "Costa de Marfil",
+      "items": [
+        {
+          "id": "CIV-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "CIV-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "CIV-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "CIV-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "CIV-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "CIV-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "CIV-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "CIV-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "CIV-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "CIV-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "CIV-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "CIV-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "CIV-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "CIV-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "CIV-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "CIV-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "CIV-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "CIV-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "CIV-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "CIV-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "E",
+      "category": "team",
+      "code": "CIV"
+    },
+    {
+      "id": "ECU",
+      "emoji": "🇪🇨",
+      "name": "Ecuador",
+      "items": [
+        {
+          "id": "ECU-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "ECU-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "ECU-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "ECU-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "ECU-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "ECU-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "ECU-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "ECU-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "ECU-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "ECU-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "ECU-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "ECU-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "ECU-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "ECU-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "ECU-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "ECU-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "ECU-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "ECU-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "ECU-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "ECU-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "E",
+      "category": "team",
+      "code": "ECU"
+    },
+    {
+      "id": "NED",
+      "emoji": "🇳🇱",
+      "name": "Países Bajos",
+      "items": [
+        {
+          "id": "NED-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "NED-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "NED-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "NED-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "NED-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "NED-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "NED-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "NED-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "NED-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "NED-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "NED-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "NED-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "NED-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "NED-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "NED-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "NED-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "NED-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "NED-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "NED-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "NED-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "F",
+      "category": "team",
+      "code": "NED"
+    },
+    {
+      "id": "JPN",
+      "emoji": "🇯🇵",
+      "name": "Japón",
+      "items": [
+        {
+          "id": "JPN-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "JPN-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "JPN-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "JPN-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "JPN-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "JPN-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "JPN-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "JPN-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "JPN-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "JPN-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "JPN-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "JPN-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "JPN-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "JPN-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "JPN-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "JPN-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "JPN-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "JPN-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "JPN-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "JPN-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "F",
+      "category": "team",
+      "code": "JPN"
+    },
+    {
+      "id": "SWE",
+      "emoji": "🇸🇪",
+      "name": "Suecia",
+      "items": [
+        {
+          "id": "SWE-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "SWE-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "SWE-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "SWE-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "SWE-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "SWE-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "SWE-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "SWE-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "SWE-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "SWE-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "SWE-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "SWE-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "SWE-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "SWE-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "SWE-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "SWE-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "SWE-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "SWE-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "SWE-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "SWE-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "F",
+      "category": "team",
+      "code": "SWE"
+    },
+    {
+      "id": "TUN",
+      "emoji": "🇹🇳",
+      "name": "Túnez",
+      "items": [
+        {
+          "id": "TUN-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "TUN-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "TUN-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "TUN-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "TUN-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "TUN-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "TUN-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "TUN-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "TUN-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "TUN-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "TUN-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "TUN-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "TUN-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "TUN-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "TUN-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "TUN-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "TUN-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "TUN-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "TUN-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "TUN-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "F",
+      "category": "team",
+      "code": "TUN"
+    },
+    {
+      "id": "BEL",
+      "emoji": "🇧🇪",
+      "name": "Bélgica",
+      "items": [
+        {
+          "id": "BEL-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "BEL-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "BEL-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "BEL-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "BEL-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "BEL-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "BEL-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "BEL-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "BEL-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "BEL-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "BEL-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "BEL-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "BEL-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "BEL-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "BEL-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "BEL-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "BEL-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "BEL-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "BEL-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "BEL-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "G",
+      "category": "team",
+      "code": "BEL"
+    },
+    {
+      "id": "EGY",
+      "emoji": "🇪🇬",
+      "name": "Egipto",
+      "items": [
+        {
+          "id": "EGY-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "EGY-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "EGY-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "EGY-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "EGY-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "EGY-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "EGY-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "EGY-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "EGY-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "EGY-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "EGY-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "EGY-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "EGY-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "EGY-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "EGY-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "EGY-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "EGY-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "EGY-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "EGY-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "EGY-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "G",
+      "category": "team",
+      "code": "EGY"
+    },
+    {
+      "id": "IRN",
+      "emoji": "🇮🇷",
+      "name": "Irán",
+      "items": [
+        {
+          "id": "IRN-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "IRN-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "IRN-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "IRN-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "IRN-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "IRN-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "IRN-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "IRN-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "IRN-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "IRN-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "IRN-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "IRN-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "IRN-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "IRN-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "IRN-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "IRN-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "IRN-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "IRN-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "IRN-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "IRN-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "G",
+      "category": "team",
+      "code": "IRN"
+    },
+    {
+      "id": "NZL",
+      "emoji": "🇳🇿",
+      "name": "Nueva Zelanda",
+      "items": [
+        {
+          "id": "NZL-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "NZL-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "NZL-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "NZL-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "NZL-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "NZL-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "NZL-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "NZL-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "NZL-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "NZL-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "NZL-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "NZL-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "NZL-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "NZL-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "NZL-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "NZL-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "NZL-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "NZL-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "NZL-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "NZL-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "G",
+      "category": "team",
+      "code": "NZL"
+    },
+    {
+      "id": "ESP",
+      "emoji": "🇪🇸",
+      "name": "España",
+      "items": [
+        {
+          "id": "ESP-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "ESP-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "ESP-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "ESP-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "ESP-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "ESP-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "ESP-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "ESP-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "ESP-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "ESP-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "ESP-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "ESP-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "ESP-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "ESP-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "ESP-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "ESP-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "ESP-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "ESP-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "ESP-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "ESP-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "H",
+      "category": "team",
+      "code": "ESP"
+    },
+    {
+      "id": "CPV",
+      "emoji": "🇨🇻",
+      "name": "Cabo Verde",
+      "items": [
+        {
+          "id": "CPV-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "CPV-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "CPV-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "CPV-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "CPV-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "CPV-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "CPV-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "CPV-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "CPV-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "CPV-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "CPV-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "CPV-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "CPV-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "CPV-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "CPV-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "CPV-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "CPV-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "CPV-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "CPV-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "CPV-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "H",
+      "category": "team",
+      "code": "CPV"
+    },
+    {
+      "id": "KSA",
+      "emoji": "🇸🇦",
+      "name": "Arabia Saudita",
+      "items": [
+        {
+          "id": "KSA-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "KSA-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "KSA-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "KSA-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "KSA-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "KSA-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "KSA-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "KSA-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "KSA-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "KSA-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "KSA-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "KSA-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "KSA-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "KSA-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "KSA-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "KSA-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "KSA-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "KSA-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "KSA-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "KSA-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "H",
+      "category": "team",
+      "code": "KSA"
+    },
+    {
+      "id": "URU",
+      "emoji": "🇺🇾",
+      "name": "Uruguay",
+      "items": [
+        {
+          "id": "URU-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "URU-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "URU-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "URU-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "URU-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "URU-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "URU-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "URU-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "URU-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "URU-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "URU-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "URU-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "URU-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "URU-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "URU-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "URU-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "URU-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "URU-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "URU-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "URU-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "H",
+      "category": "team",
+      "code": "URU"
+    },
+    {
+      "id": "FRA",
+      "emoji": "🇫🇷",
+      "name": "Francia",
+      "items": [
+        {
+          "id": "FRA-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "FRA-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "FRA-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "FRA-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "FRA-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "FRA-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "FRA-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "FRA-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "FRA-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "FRA-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "FRA-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "FRA-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "FRA-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "FRA-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "FRA-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "FRA-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "FRA-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "FRA-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "FRA-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "FRA-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "I",
+      "category": "team",
+      "code": "FRA"
+    },
+    {
+      "id": "SEN",
+      "emoji": "🇸🇳",
+      "name": "Senegal",
+      "items": [
+        {
+          "id": "SEN-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "SEN-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "SEN-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "SEN-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "SEN-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "SEN-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "SEN-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "SEN-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "SEN-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "SEN-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "SEN-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "SEN-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "SEN-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "SEN-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "SEN-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "SEN-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "SEN-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "SEN-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "SEN-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "SEN-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "I",
+      "category": "team",
+      "code": "SEN"
+    },
+    {
+      "id": "IRQ",
+      "emoji": "🇮🇶",
+      "name": "Irak",
+      "items": [
+        {
+          "id": "IRQ-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "IRQ-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "IRQ-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "IRQ-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "IRQ-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "IRQ-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "IRQ-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "IRQ-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "IRQ-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "IRQ-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "IRQ-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "IRQ-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "IRQ-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "IRQ-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "IRQ-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "IRQ-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "IRQ-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "IRQ-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "IRQ-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "IRQ-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "I",
+      "category": "team",
+      "code": "IRQ"
+    },
+    {
+      "id": "NOR",
+      "emoji": "🇳🇴",
+      "name": "Noruega",
+      "items": [
+        {
+          "id": "NOR-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "NOR-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "NOR-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "NOR-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "NOR-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "NOR-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "NOR-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "NOR-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "NOR-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "NOR-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "NOR-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "NOR-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "NOR-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "NOR-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "NOR-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "NOR-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "NOR-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "NOR-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "NOR-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "NOR-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "I",
+      "category": "team",
+      "code": "NOR"
+    },
+    {
+      "id": "ARG",
+      "emoji": "🇦🇷",
+      "name": "Argentina",
+      "items": [
+        {
+          "id": "ARG-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "ARG-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "ARG-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "ARG-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "ARG-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "ARG-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "ARG-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "ARG-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "ARG-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "ARG-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "ARG-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "ARG-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "ARG-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "ARG-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "ARG-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "ARG-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "ARG-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "ARG-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "ARG-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "ARG-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "J",
+      "category": "team",
+      "code": "ARG"
+    },
+    {
+      "id": "ALG",
+      "emoji": "🇩🇿",
+      "name": "Argelia",
+      "items": [
+        {
+          "id": "ALG-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "ALG-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "ALG-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "ALG-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "ALG-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "ALG-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "ALG-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "ALG-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "ALG-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "ALG-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "ALG-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "ALG-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "ALG-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "ALG-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "ALG-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "ALG-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "ALG-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "ALG-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "ALG-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "ALG-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "J",
+      "category": "team",
+      "code": "ALG"
+    },
+    {
+      "id": "AUT",
+      "emoji": "🇦🇹",
+      "name": "Austria",
+      "items": [
+        {
+          "id": "AUT-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "AUT-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "AUT-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "AUT-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "AUT-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "AUT-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "AUT-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "AUT-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "AUT-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "AUT-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "AUT-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "AUT-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "AUT-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "AUT-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "AUT-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "AUT-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "AUT-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "AUT-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "AUT-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "AUT-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "J",
+      "category": "team",
+      "code": "AUT"
+    },
+    {
+      "id": "JOR",
+      "emoji": "🇯🇴",
+      "name": "Jordania",
+      "items": [
+        {
+          "id": "JOR-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "JOR-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "JOR-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "JOR-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "JOR-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "JOR-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "JOR-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "JOR-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "JOR-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "JOR-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "JOR-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "JOR-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "JOR-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "JOR-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "JOR-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "JOR-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "JOR-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "JOR-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "JOR-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "JOR-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "J",
+      "category": "team",
+      "code": "JOR"
+    },
+    {
+      "id": "POR",
+      "emoji": "🇵🇹",
+      "name": "Portugal",
+      "items": [
+        {
+          "id": "POR-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "POR-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "POR-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "POR-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "POR-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "POR-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "POR-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "POR-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "POR-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "POR-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "POR-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "POR-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "POR-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "POR-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "POR-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "POR-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "POR-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "POR-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "POR-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "POR-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "K",
+      "category": "team",
+      "code": "POR"
+    },
+    {
+      "id": "COD",
+      "emoji": "🇨🇩",
+      "name": "República Democrática del Congo",
+      "items": [
+        {
+          "id": "COD-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "COD-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "COD-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "COD-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "COD-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "COD-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "COD-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "COD-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "COD-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "COD-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "COD-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "COD-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "COD-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "COD-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "COD-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "COD-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "COD-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "COD-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "COD-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "COD-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "K",
+      "category": "team",
+      "code": "COD"
+    },
+    {
+      "id": "UZB",
+      "emoji": "🇺🇿",
+      "name": "Uzbekistán",
+      "items": [
+        {
+          "id": "UZB-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "UZB-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "UZB-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "UZB-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "UZB-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "UZB-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "UZB-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "UZB-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "UZB-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "UZB-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "UZB-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "UZB-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "UZB-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "UZB-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "UZB-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "UZB-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "UZB-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "UZB-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "UZB-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "UZB-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "K",
+      "category": "team",
+      "code": "UZB"
+    },
+    {
+      "id": "COL",
+      "emoji": "🇨🇴",
+      "name": "Colombia",
+      "items": [
+        {
+          "id": "COL-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "COL-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "COL-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "COL-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "COL-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "COL-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "COL-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "COL-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "COL-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "COL-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "COL-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "COL-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "COL-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "COL-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "COL-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "COL-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "COL-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "COL-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "COL-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "COL-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "K",
+      "category": "team",
+      "code": "COL"
+    },
+    {
+      "id": "ENG",
+      "emoji": "🇬🇧",
+      "name": "Inglaterra",
+      "items": [
+        {
+          "id": "ENG-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "ENG-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "ENG-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "ENG-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "ENG-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "ENG-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "ENG-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "ENG-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "ENG-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "ENG-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "ENG-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "ENG-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "ENG-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "ENG-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "ENG-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "ENG-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "ENG-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "ENG-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "ENG-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "ENG-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "L",
+      "category": "team",
+      "code": "ENG"
+    },
+    {
+      "id": "CRO",
+      "emoji": "🇭🇷",
+      "name": "Croacia",
+      "items": [
+        {
+          "id": "CRO-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "CRO-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "CRO-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "CRO-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "CRO-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "CRO-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "CRO-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "CRO-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "CRO-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "CRO-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "CRO-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "CRO-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "CRO-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "CRO-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "CRO-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "CRO-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "CRO-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "CRO-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "CRO-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "CRO-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "L",
+      "category": "team",
+      "code": "CRO"
+    },
+    {
+      "id": "GHA",
+      "emoji": "🇬🇭",
+      "name": "Ghana",
+      "items": [
+        {
+          "id": "GHA-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "GHA-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "GHA-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "GHA-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "GHA-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "GHA-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "GHA-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "GHA-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "GHA-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "GHA-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "GHA-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "GHA-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "GHA-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "GHA-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "GHA-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "GHA-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "GHA-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "GHA-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "GHA-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "GHA-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "L",
+      "category": "team",
+      "code": "GHA"
+    },
+    {
+      "id": "PAN",
+      "emoji": "🇵🇦",
+      "name": "Panamá",
+      "items": [
+        {
+          "id": "PAN-1",
+          "display": "1",
+          "type": "Selección"
+        },
+        {
+          "id": "PAN-2",
+          "display": "2",
+          "type": "Selección"
+        },
+        {
+          "id": "PAN-3",
+          "display": "3",
+          "type": "Selección"
+        },
+        {
+          "id": "PAN-4",
+          "display": "4",
+          "type": "Selección"
+        },
+        {
+          "id": "PAN-5",
+          "display": "5",
+          "type": "Selección"
+        },
+        {
+          "id": "PAN-6",
+          "display": "6",
+          "type": "Selección"
+        },
+        {
+          "id": "PAN-7",
+          "display": "7",
+          "type": "Selección"
+        },
+        {
+          "id": "PAN-8",
+          "display": "8",
+          "type": "Selección"
+        },
+        {
+          "id": "PAN-9",
+          "display": "9",
+          "type": "Selección"
+        },
+        {
+          "id": "PAN-10",
+          "display": "10",
+          "type": "Selección"
+        },
+        {
+          "id": "PAN-11",
+          "display": "11",
+          "type": "Selección"
+        },
+        {
+          "id": "PAN-12",
+          "display": "12",
+          "type": "Selección"
+        },
+        {
+          "id": "PAN-13",
+          "display": "13",
+          "type": "Selección"
+        },
+        {
+          "id": "PAN-14",
+          "display": "14",
+          "type": "Selección"
+        },
+        {
+          "id": "PAN-15",
+          "display": "15",
+          "type": "Selección"
+        },
+        {
+          "id": "PAN-16",
+          "display": "16",
+          "type": "Selección"
+        },
+        {
+          "id": "PAN-17",
+          "display": "17",
+          "type": "Selección"
+        },
+        {
+          "id": "PAN-18",
+          "display": "18",
+          "type": "Selección"
+        },
+        {
+          "id": "PAN-19",
+          "display": "19",
+          "type": "Selección"
+        },
+        {
+          "id": "PAN-20",
+          "display": "20",
+          "type": "Selección"
+        }
+      ],
+      "group": "L",
+      "category": "team",
+      "code": "PAN"
+    },
+    {
+      "id": "WCH",
+      "emoji": "🌎",
+      "name": "World Cup History",
+      "items": [
+        {
+          "id": "FWC-9",
+          "display": "FWC9",
+          "type": "Historia"
+        },
+        {
+          "id": "FWC-10",
+          "display": "FWC10",
+          "type": "Historia"
+        },
+        {
+          "id": "FWC-11",
+          "display": "FWC11",
+          "type": "Historia"
+        },
+        {
+          "id": "FWC-12",
+          "display": "FWC12",
+          "type": "Historia"
+        },
+        {
+          "id": "FWC-13",
+          "display": "FWC13",
+          "type": "Historia"
+        },
+        {
+          "id": "FWC-14",
+          "display": "FWC14",
+          "type": "Historia"
+        },
+        {
+          "id": "FWC-15",
+          "display": "FWC15",
+          "type": "Historia"
+        },
+        {
+          "id": "FWC-16",
+          "display": "FWC16",
+          "type": "Historia"
+        },
+        {
+          "id": "FWC-17",
+          "display": "FWC17",
+          "type": "Historia"
+        },
+        {
+          "id": "FWC-18",
+          "display": "FWC18",
+          "type": "Historia"
+        },
+        {
+          "id": "FWC-19",
+          "display": "FWC19",
+          "type": "Historia"
+        }
+      ],
+      "category": "special",
+      "group": null
+    },
+    {
+      "id": "CC",
+      "emoji": "🥤",
+      "name": "COCA-COLA",
+      "items": [
+        {
+          "id": "CC-1",
+          "display": "CC1",
+          "type": "Coca-Cola"
+        },
+        {
+          "id": "CC-2",
+          "display": "CC2",
+          "type": "Coca-Cola"
+        },
+        {
+          "id": "CC-3",
+          "display": "CC3",
+          "type": "Coca-Cola"
+        },
+        {
+          "id": "CC-4",
+          "display": "CC4",
+          "type": "Coca-Cola"
+        },
+        {
+          "id": "CC-5",
+          "display": "CC5",
+          "type": "Coca-Cola"
+        },
+        {
+          "id": "CC-6",
+          "display": "CC6",
+          "type": "Coca-Cola"
+        },
+        {
+          "id": "CC-7",
+          "display": "CC7",
+          "type": "Coca-Cola"
+        },
+        {
+          "id": "CC-8",
+          "display": "CC8",
+          "type": "Coca-Cola"
+        },
+        {
+          "id": "CC-9",
+          "display": "CC9",
+          "type": "Coca-Cola"
+        },
+        {
+          "id": "CC-10",
+          "display": "CC10",
+          "type": "Coca-Cola"
+        },
+        {
+          "id": "CC-11",
+          "display": "CC11",
+          "type": "Coca-Cola"
+        },
+        {
+          "id": "CC-12",
+          "display": "CC12",
+          "type": "Coca-Cola"
+        }
+      ],
+      "category": "special",
+      "group": null
+    }
+  ]
+}

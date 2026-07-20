@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#07111f">
+  <meta name="description" content="Control personal de figuritas del Mundial 2026">
+  <link rel="manifest" href="./manifest.json">
+  <link rel="apple-touch-icon" href="./icons/icon-192.png">
+  <link rel="stylesheet" href="./css/style.css">
+  <title>Mi Álbum Mundial 2026</title>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <img src="./icons/icon-192.png" alt="">
+      <div><strong>Mi Álbum</strong><span>Mundial 2026</span></div>
+    </div>
+    <button id="installBtn" class="install hidden" type="button">Instalar app</button>
+  </header>
+
+  <main>
+    <section id="dashboard" class="view active">
+      <div class="metrics">
+        <article><span>Tengo</span><b id="haveMetric">0</b></article>
+        <article><span>Total</span><b id="totalMetric">0</b></article>
+        <article><span>Progreso</span><b id="progressMetric">0%</b></article>
+        <article><span>Faltan</span><b id="missingMetric">0</b></article>
+        <article><span>Repetidas</span><b id="dupsMetric">0</b></article>
+      </div>
+      <div class="panel">
+        <div class="section-head"><h2>Álbum por grupos</h2><span id="saveState">Listo</span></div>
+        <div id="groupCards"></div>
+      </div>
+    </section>
+
+    <section id="album" class="view">
+      <div class="panel">
+        <div class="controls">
+          <select id="sectionSelect" aria-label="Sección"></select>
+          <select id="stickerFilter" aria-label="Filtro">
+            <option value="all">Todas</option>
+            <option value="owned">Tengo</option>
+            <option value="missing">Faltan</option>
+            <option value="dups">Repetidas</option>
+          </select>
+        </div>
+        <div id="albumTitle" class="album-title"></div>
+        <div id="stickers" class="stickers"></div>
+      </div>
+    </section>
+
+    <section id="lists" class="view">
+      <div class="panel">
+        <div class="tabs-inline">
+          <button data-list="missing" class="active">Faltantes</button>
+          <button data-list="dups">Repetidas</button>
+        </div>
+        <textarea id="listOutput" readonly></textarea>
+        <button id="copyList" type="button">Copiar lista</button>
+      </div>
+    </section>
+
+    <section id="compare" class="view">
+      <div class="panel">
+        <h2>Comparar con un amigo</h2>
+        <p>Carga el respaldo <strong>.album</strong> de otra persona. Verás qué puede darte y qué necesita de ti.</p>
+        <input id="compareFile" type="file" accept=".album,.json">
+        <div id="compareOutput"></div>
+      </div>
+    </section>
+
+    <section id="data" class="view">
+      <div class="panel data-actions">
+        <h2>Respaldo y aplicación</h2>
+        <button id="exportBtn" type="button">Exportar respaldo</button>
+        <button id="importBtn" type="button">Importar respaldo</button>
+        <button id="resetBtn" class="danger" type="button">Borrar todo</button>
+        <input id="importFile" type="file" accept=".album,.json" hidden>
+        <div class="note">
+          <strong>v2.0.0</strong><br>
+          Tus datos se guardan localmente en este dispositivo. Cada persona que abra el enlace tendrá su propio álbum.
+        </div>
+        <div class="note">
+          <strong>Instalar en Android:</strong> abre el menú de Chrome y selecciona “Instalar aplicación”.<br>
+          <strong>Instalar en iPhone:</strong> usa Compartir → “Agregar a inicio”.
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <nav class="bottom-nav">
+    <button data-view="dashboard" class="active">Inicio</button>
+    <button data-view="album">Mi álbum</button>
+    <button data-view="lists">Listas</button>
+    <button data-view="compare">Comparar</button>
+    <button data-view="data">Datos</button>
+  </nav>
+
+  <script src="./js/app.js" defer></script>
+</body>
+</html>

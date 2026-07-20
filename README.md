@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30172455/README.md)
 # Mi Álbum Mundial 2026 v2.0
 
 Aplicación PWA para controlar figuritas, faltantes, repetidas, respaldos y comparación con amigos.
